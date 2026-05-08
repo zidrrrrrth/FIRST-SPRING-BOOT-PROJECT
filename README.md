@@ -1,20 +1,18 @@
-# Task 1 – First Spring Boot MVC Application
+# First Spring Boot MVC Project
 
-A Spring Boot web application demonstrating the MVC (Model-View-Controller)
-design pattern, HTTP request handling, and Thymeleaf templating.
+## Features
+- Returns a plain text greeting at homepage
+- Returns a personalized HTML greeting page with image
 
 ---
 
-## Technologies Used
-
+## Dependencies Used
 - Java 21
 - Spring Boot 3.4.0
-- Spring Web (MVC)
-- Thymeleaf (template engine)
+- Spring Web
+- Thymeleaf
 - Maven
 
 ---
 
-## How to Run
-
-1. Clone the repository:
+## Project Structure
