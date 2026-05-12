@@ -65,7 +65,7 @@ _____
 - When (/) is opened, the hello() method runs
 - It returns a String
 
-  ![Index Page](sreenshot1.png.png)
+  ![Index Page](screenshot1.png.png)
 
   _____
 
