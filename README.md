@@ -65,7 +65,7 @@ _____
 - When (/) is opened, the hello() method runs
 - It returns a String
 
-  ![Index Page](IndexPage.png)
+  ![Index Page](sreenshot1.png.png)
 
   _____
 
@@ -76,7 +76,7 @@ _____
 - Returns "greeting"
 - Then Spring looks for templates/greeting.html
 
-  ![Greeting Page](GreetngsPage.png)
+  ![Greeting Page](screenshot2.png.png)
 
   ________
 
